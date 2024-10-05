@@ -1,0 +1,1 @@
+Use Python in Excel to take 21 months of historic data and use it to predict spend over the next year. One table predicts cost solely based off clicks and another predicts spend based off clicks and CPC
